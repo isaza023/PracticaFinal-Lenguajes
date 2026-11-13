@@ -1,8 +1,8 @@
 # Práctica 2 - Motor Integrado de Itinerarios y Tarifas
 
 **Integrantes:** Samuel Gómez, Samuel Isaza
-**Curso:** SI1002-7 Lenguajes y Paradigmas de Computación, EAFIT 2026-2
-
+**Curso:** 
+Lenguajes y Paradigmas de Computación, 
 ## Cómo compilar y ejecutar
 
     g++ -std=c++17 -Wall -Wextra main.cpp -o main
